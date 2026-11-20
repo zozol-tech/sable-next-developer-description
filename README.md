@@ -121,6 +121,8 @@ Three people explained why such decision is horrible, but Erwan committed that a
 > **18:58:19 · doesnm** `@doesnm:doesnmlab.xyz`
 > [\*crickets\*](https://matrix.to/#/#dev:sable.moe/$ct-M9uDXiK4HLS4rXtOdoc6wzmKZQD84t1hUcY8CgLg?via=sable.moe)
 
+You can see a visualization of this dialog in the file sable — room log.u.zip.html https://github.com/zozol-tech/sable-next-developer-description/blob/main/sable%20%E2%80%94%20room%20log.u.zip.html or in json logs.
+
 22 minutes later (19:20), `@meowlnir:sable.moe` (moderation bot) sends this membership event:
 
 ```json
@@ -185,7 +187,6 @@ Erwan, you were the one and only one, who steered the conversation into politics
 
 "you will end up dead in ukraine" - it was addressed to `@rustyraven:extera.xyz` (16 years old btw). Erwan, you are a grown up employed person. Do I even need to explain why saying such words to people is ruthless and vile at least?
 
-You can see a visualization of this dialog in the file sable — room log.u.zip.html https://github.com/zozol-tech/sable-next-developer-description/blob/main/sable%20%E2%80%94%20room%20log.u.zip.html or in json logs.
 ---
 
 ## The 8th of October, 09:26-09:59
@@ -695,3 +696,6 @@ Same room, same export. These are the events behind the last two sections.
 Commit: `7454e78532d67aef9cf783fb9bca5799e2b7c925` · [github.com/SableClient/sable-next](https://github.com/SableClient/sable-next/commit/7454e78532d67aef9cf783fb9bca5799e2b7c925) · still in `main` at [line 643](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L643) and [line 2265](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L2265).
 
 Contributors: `eleboucher` 6161, `7w1` 309, `nushea` 86, `serialuart` 85, `j0lol` 75.
+
+Update: They have corrected the translation, but are now prohibit users using their flag https://github.com/SableClient/sable-next/commit/c99bd5421fa9abb0db0777eed5be3b63fa93e77c
+![screenshot]([1.png](https://github.com/zozol-tech/sable-next-developer-description/blob/main/docs%20clarify%20our%20policy%20regarding%20discussion%20of%20ongoing%20wars%20%C2%B7%20SableClient_sable-next%40c99bd54.png))
