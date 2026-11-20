@@ -1,5 +1,5 @@
 # sable-next developer questionable actions
-
+![screenshot](3.webp)
 tl;dr: erwan (one of sable developers) is russophobic
 
 ## Who is who
@@ -55,6 +55,12 @@ Your UI would say "Glory to Ukraine", if system/browser language is set to Russi
 
 These strings are in `main` - [line 643](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L643) and [line 2265](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L2265), last checked the 6th of November, 2026.
 
+Looks like someone decided to hide that, don’t worry we have all need proof. You can open file (https://github.com/zozol-tech/sable-next-developer-description/blob/main/sable%20chore(l10n)_%20greet%20Russian%20users%20with%20Slava%20Ukraini%20on%20load%20%C2%B7%20SableClient_sable-next%407454e78%20%C2%B7%20GitHub%20(02.11.2026%2019_04_09).u.zip.html)
+Commit 7454e78
+
+or check fork here https://github.com/zozol-tech/sable-next-fix/commit/7454e78
+
+![screenshot](10.webp)
 ---
 
 > It's about the government, not the people
