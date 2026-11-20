@@ -1,4 +1,4 @@
-# sable-next developer questionable actions
+# sable-next developer questionable actions dubious slogans, racism and other questionable behavior.
 ![screenshot](3.webp)
 tl;dr: erwan (one of sable developers) is russophobic
 
@@ -60,8 +60,11 @@ Commit 7454e78
 
 or check fork here https://github.com/zozol-tech/sable-next-fix/commit/7454e78
 
-![screenshot](10.webp)
+![screenshot](4.webp)
 ---
+
+you could write anything there, like a wish for peace, but you only had the mind to do that.
+honestly a pathetic spectacle.
 
 > It's about the government, not the people
 
@@ -138,15 +141,24 @@ Erwan, the war topic was opened from your side, completely on your initiative. Y
 It was later pointed out by `@rustyraven:extera.xyz`, other people noticed and `@doesnm:doesnmlab.xyz` was unbanned after community backlash.
 
 **And now the most unhinged and unreasonable thing**: Erwan didn't have enough to ban doesnm. Guess what has he done? He created a test fixture, which tests message composer mention unlinking, with following message: `!ban sable-coc @doesnm:doesnmlab.xyz russian troll`. You REALLY have to be dedicated, vindictive, petty to commit such unreasonable stuff. *You could put anything there. It didn't even have to be a real Matrix ID.*
+![screenshot](6.webp)
 
 Of course, this didn't go unnoticed, and [an issue calling that out was made](https://web.archive.org/web/20261103124433/https://github.com/SableClient/sable-next/issues/20).
+![screenshot](7.webp)
+
 
 **What happens later?**
 1. Erwan replaces "russian troll" to "transphobic", stating it's "the real reason": [commit link](https://web.archive.org/web/20261104135927/https://github.com/SableClient/sable-next/commit/24f8b246877565142c4b23dca9c755d891025063). You contradict yourself! The reason was "russian troll", not "transphobic".
-2. Erwan removes real users from tests (including himself @erwan:localhost). A mass cleaning.
-3. Issue 20 gets deleted, PRs & issues disabled, hence the Wayback Machine link.
+ ![screenshot](9.webp)
+
+then change again
+![screenshot](8.webp)
+3. Erwan removes real users from tests (including himself @erwan:localhost). A mass cleaning. file https://github.com/zozol-tech/sable-next-developer-description/blob/main/sable%20test_%20remove%20real%20users%20from%20tests%20%C2%B7%20SableClient_sable-next%4098d672c%20(04.11.2026%2017_51_22).u.zip.html
+![screenshot](2.webp)
+4. Issue 20 gets deleted, PRs & issues disabled, hence the Wayback Machine link.
 
 You can take a look on how the test fixture looked like: https://web.archive.org/web/20261103125007/https://github.com/SableClient/sable-next/blob/4b3480a4/src/lib/features/composer/editor/composer-editor.test.ts#L150-L175
+
 
 ---
 
@@ -172,6 +184,7 @@ Erwan, you were the one and only one, who steered the conversation into politics
 
 "you will end up dead in ukraine" - it was addressed to `@rustyraven:extera.xyz` (16 years old btw). Erwan, you are a grown up employed person. Do I even need to explain why saying such words to people is ruthless and vile at least?
 
+You can see a visualization of this dialog in the file sable — room log.u.zip.html https://github.com/zozol-tech/sable-next-developer-description/blob/main/sable%20%E2%80%94%20room%20log.u.zip.html or in json logs.
 ---
 
 ## The 8th of October, 09:26-09:59
@@ -340,7 +353,7 @@ The MSC defines `m.rpc`, a *profile field*, federated through profile-field mech
 I am MSC4544's author (gh: `ryotairi`, `@rustyraven:extera.xyz`), signed off `rustyraven <rustyraven@extera.xyz>`, opened 16 September 2026. The proposal's own "Known implementations" list names two Extera clients and Zam, nothing else. Sable has never shipped `m.rpc`.
 
 I won't invent claims like "he called it horrible because author is from Russia", as they weren't stated. He knew certainly whose MSC it was, having been corrected by its author in public, the correction was dropped and never revisited, when the topic returned, he called it "horrible". He made asking about it a bannable offense.
-
+![screenshot](1.webp)
 ---
 
 ### Bad excuses disposed in advance
@@ -354,7 +367,7 @@ I won't invent claims like "he called it horrible because author is from Russia"
 
 ### Conclusion
 
-This is absolutely not a bad joke by a tired man, not clumsiness. It's a pattern documented at least 4 times.
+This is absolutely not a bad joke by a tired man, not clumsiness. It's a pattern documented at least 4 times. 
 
 - **Erwan** (`@genesixx:erwanleboucher.dev`) told a supporter his country's sanctions should be "even worse", then told him to "stop invading country :D", then banned him as a **"Russian troll"**.
 - **Erwan** told a sixteen-year-old he "will end up dead in ukraine anyway", then called the objection **"victimization behavior"**.
