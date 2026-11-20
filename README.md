@@ -353,7 +353,7 @@ The MSC defines `m.rpc`, a *profile field*, federated through profile-field mech
 I am MSC4544's author (gh: `ryotairi`, `@rustyraven:extera.xyz`), signed off `rustyraven <rustyraven@extera.xyz>`, opened 16 September 2026. The proposal's own "Known implementations" list names two Extera clients and Zam, nothing else. Sable has never shipped `m.rpc`.
 
 I won't invent claims like "he called it horrible because author is from Russia", as they weren't stated. He knew certainly whose MSC it was, having been corrected by its author in public, the correction was dropped and never revisited, when the topic returned, he called it "horrible". He made asking about it a bannable offense.
-![screenshot](1.webp)
+![screenshot](1.png)
 ---
 
 ### Bad excuses disposed in advance
@@ -362,7 +362,7 @@ I won't invent claims like "he called it horrible because author is from Russia"
 2. "Russian users can switch to English." So the goal wasn't the war. You just wanted people to hide their language to use a chat app.
 3. "The Russian state does worse." Completely irrelevant. Your own Code of Conduct does not have exception clause for states, banned people weren't a state. A policy that can't tell an individual from a state is ridiculously dumb.
 4. "His project - his rules." True. That's the problem, because Erwan is not a random rogue contributor slipping some stuff past review, but top-1 contributor with ~6k commits.
-
+5.  In general, do not try to make yourself into a man who understands this war, you don’t. Also you don’t need to insert your position into the software.
 ---
 
 ### Conclusion
@@ -387,7 +387,7 @@ A Matrix client is not a country. If you really like war topic, go and join it. 
 
 ## JSON of cited events
 
-Room `#dev:sable.moe` -`!6DYBIzUfDoKmqk53wyRqcod2G7LTcR9fEm9XBfaenNI`, export of 45110 events (`./sable.json` attached). Fields trimmed to `event_id`, `sender`, `ts`, `type`, `target`, `content`. Every quote above is one of these objects. Events in federation format are attached in `./events.jsonl`
+Room `#dev:sable.moe` -`!6DYBIzUfDoKmqk53wyRqcod2G7LTcR9fEm9XBfaenNI`, export of 45110 events (`./sable log.json` attached). Fields trimmed to `event_id`, `sender`, `ts`, `type`, `target`, `content`. Every quote above is one of these objects. Events in federation format are attached in `./sable events.jsonl`
 ```json
 [
  {"event_id": "$yCdCm3SrRZiLVNof6d07OndYCUWLt-jAJu-1gD0w9ic", "sender": "@genesixx:erwanleboucher.dev", "ts": "2026-09-27T18:49:37Z", "type": "m.room.message", "content": {"msgtype": "m.text", "body": "well you don't have them in your country"}},
