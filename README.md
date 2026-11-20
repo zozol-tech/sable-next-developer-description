@@ -51,6 +51,7 @@ Here is the diff:
 
 "pettingAnimal" is an easter-egg syncing label.
 
+You don’t seem to know what the slogan is or what his story is. In any case, I won’t teach you a history lesson here, but it’s not an innocuous slogan, as Wikipedia might try to prove otherwise.
 Your UI would say "Glory to Ukraine", if system/browser language is set to Russian. A dialog or banner could have been enough, you already have an Ukraine flag in about section! It's an intentional sabotage of Russian translation, absolutely unnecessary to show your political position. Remember that it's a "middle ground" to accept Russian translation. I can't even think of possible reasoning behind this decision, it's just provocative, as it targets anyone who reads Russian (read next section on this).
 
 These strings are in `main` - [line 643](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L643) and [line 2265](https://github.com/SableClient/sable-next/blob/main/src/locales/ru.json#L2265), last checked the 6th of November, 2026.
